@@ -1,0 +1,7 @@
+applications:
+- name: qualtrics-survey
+  host: qualtrics-survey
+  timeout: 600
+  path: .
+  memory: 128M
+  command: python server.py

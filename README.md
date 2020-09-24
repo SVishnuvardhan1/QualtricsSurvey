@@ -1,2 +1,2 @@
-# QualtricsSurvey
-Deployment of Qualtrics Survey in SCP
+# qualtrics-survey
+Deployement of Qualtrics survey in SCP
